@@ -9,6 +9,11 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.robhaenenroootsj.Roootsj"
+        },
+        "cordova-plugin-facebook": {
+            "FACEBOOK_APP_ID": "674975182712952",
+            "FACEBOOK_DISPLAY_NAME": "cordova",
+            "PACKAGE_NAME": "com.robhaenenroootsj.Roootsj"
         }
     },
     "dependent_plugins": {}
